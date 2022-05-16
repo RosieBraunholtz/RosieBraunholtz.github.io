@@ -3,32 +3,17 @@
 <html lang="en">
 <head>
 
-<title>Rosie Braunholtz</title>
+<title>About Me</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 
 <!-- Before we start writing what's inside the skeleton, we want to style everything before hand. -->
-<style> /* style uses CSS which is you use different commenting for */
-body {
-  font-family: Arial, Helvetica, sans-serif; 
-}
-/*-- style the header  */
-.header { 
-  padding: 80px;
-  text-align: center;
-  background: url('Galaxy1.jpg');
-  background-size: 100%;
-  color: white;
-}
-  
-/* Increase the font size of the <h1> element */
-.header h1 {
-  font-size: 40px;
-}
 
+<link href="css/styles.css" rel="stylesheet" type="text/css">
 
-  
-</style>
+<!-- ################################################### HTML #########################################################-->
+
 </head>
 
 <!--Everything you see on the webpage goes inside the <body>. We will add different sections: header, navigation bar etc -->
@@ -41,6 +26,99 @@ body {
 
 </div>
 
+<!-- ######### Navigation Bar ######## -->
+<div class="navbar"> 
+  <a href="index.html">About Me </a>
+  <a href="html/work.html">Work Experience</a>
+  <a href="html/projects.html">Projects</a>
+  <a href="html/contact.html" class="right">Contact</a>
+</div>
+
+<!--######### About me section on home page ###########-->
+<div class="intro">
+  <h2>About Me</h2>
+  <h3> Hello and welcome to my website!</h3>
+  <img src="Images/crete1.jpg" alt="Standrews" style="width:20% ;">
+  <p style="padding: 20px 80px">  My name's Rosie and I built this to help me learn HTML, plus to display some of my
+    achievements and work experience. I am an astronomer, recently graduated from the University of St Andrews in 2021. Currently I am
+    working as a data analyst at FinTech company Actelligent in Edinburgh. Please explore my page, I'm hoping to add more on to the web site soon.
+    If you want to know what I look like here is an idyllic photo of me in Crete in 2021... however this is not a good representation of what I look like in my daily life.
+  </p>
+  <br>
+</div>
+
+<!-- ##################### Photo Gallery ################## -->
+<div class="main">
+  <h3>Photo gallery</h3>
+  <p> Pictures speak a thousand words, and I can't be bothered to write any more code. So here are some images from my life, they mostly contain family, friends, general outdoorsy-ness,
+    and maybe some baking (bake-off 2023 here I come!).  </p>
+
+  <div class="gallery">
+    <a target="_blank" href="Images/Standrews.jpg">
+      <img src="Images/Standrews.jpg" alt="St Andrews"  width="600" height="400">
+    </a>
+    <div class="desc">On the pier in St Andrews</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="Images/grad.jpg">
+      <img src="Images/grad.jpg" alt="Graduation at St Andrews"  width="600" height="400">
+    </a>
+    <div class="desc">Graduation day! Our teachers rightfully knelt beneath us. </div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="Images/fam4.jpg">
+      <img src="Images/fam4.jpg" alt="Family"  width="600" height="400">
+    </a>
+    <div class="desc">My family. </div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="Images/Maydip.jpg">
+      <img src="Images/Maydip.jpg" alt="Maydip"  width="600" height="400">
+    </a>
+    <div class="desc">May Dip! Moments before descending into the North Sea at 5am. St Andrews has weird traditions...</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="Images/Mountain.jpg">
+      <img src="Images/Mountain.jpg" alt="Family" width="600" height="400">
+    </a>
+    <div class="desc">On a hill.</div>
+  </div>
+  
+  <div class="gallery">
+    <a target="_blank" href="Images/fam6.jpg">
+      <img src="Images/fam6.jpg" alt="Maydip" width="600" height="400">
+    </a>
+    <div class="desc">A cheerful day.</div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="Images/Ski.jpg">
+      <img src="Images/Ski.jpg" alt="Maydip" width="600" height="400">
+    </a>
+    <div class="desc"> Somewhere in the Alps I believe. </div>
+  </div>
+
+  <div class="gallery">
+    <a target="_blank" href="Images/gingerbread.jpg">
+      <img src="Images/gingerbread.jpg" alt="Maydip" width="600" height="400">
+    </a>
+    <div class="desc">Lockdown gingerbread house. </div>
+  </div>
+
+  
+
+</div>
+
+<div class="footer">
+  <a href="https://www.linkedin.com/in/rosiebraunholtz/"><i class="fa fa-linkedin" style="color:white"></i></a>
+  <a href="https://github.com/RosieBraunholtz"><i class="fa fa-github" aria-hidden="true" style="color:white"></i></a>
+
+  <h2>This website is hosted by GitHub Pages </h2>
+</div> 
 
 
 </body>

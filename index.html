@@ -1,4 +1,5 @@
-
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,6 +13,9 @@
 
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 
+<link href="css/header.css" rel="stylesheet" type="text/css">
+<link href="css/footer.css" rel="stylesheet" type="text/css">
+
 <!-- ################################################### HTML #########################################################-->
 
 </head>
@@ -19,20 +23,23 @@
 <!--Everything you see on the webpage goes inside the <body>. We will add different sections: header, navigation bar etc -->
 <body>
 
+<!-- Header-->
+<!-- {% include header.html %} -->
+
 <div class="header"> <!-- This creates a new section -->
   <h1>Rosie Braunholtz </h1>
 
   <p>MSc Astrophysics</p>
-
 </div>
 
-<!-- ######### Navigation Bar ######## -->
+  <!-- ######### Navigation Bar ######## -->
 <div class="navbar"> 
   <a href="index.html">About Me </a>
   <a href="html/work.html">Work Experience</a>
   <a href="html/projects.html">Projects</a>
   <a href="html/contact.html" class="right">Contact</a>
 </div>
+
 
 <!--######### About me section on home page ###########-->
 <div class="intro">
@@ -113,12 +120,19 @@
 
 </div>
 
-<div class="footer">
-  <a href="https://www.linkedin.com/in/rosiebraunholtz/"><i class="fa fa-linkedin" style="color:white"></i></a>
-  <a href="https://github.com/RosieBraunholtz"><i class="fa fa-github" aria-hidden="true" style="color:white"></i></a>
+<!-- Footer -->
+<!-- <div id="footer"></div> -->
 
-  <h2>This website is hosted by GitHub Pages </h2>
+
+<div class="footer">
+      <a href="https://www.linkedin.com/in/rosiebraunholtz/"><i class="fa fa-linkedin" style="color:white"></i></a>
+      <a href="https://github.com/RosieBraunholtz"><i class="fa fa-github" aria-hidden="true" style="color:white"></i></a>
+    
+      <h2>This website is hosted by GitHub Pages </h2>
 </div> 
+  
+  
+
 
 
 </body>

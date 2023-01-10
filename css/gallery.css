@@ -8,7 +8,7 @@ img {vertical-align: middle;}
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: 0px auto;
 }
 
 /* Next & previous buttons */
@@ -16,6 +16,7 @@ img {vertical-align: middle;}
   cursor: pointer;
   position: absolute;
   top: 50%;
+  /* margin: auto; */
   width: auto;
   padding: 16px;
   margin-top: -22px;
@@ -44,7 +45,7 @@ img {vertical-align: middle;}
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 40px;
   width: 100%;
   text-align: center;
 }

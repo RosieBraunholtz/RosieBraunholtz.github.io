@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+
+    <title>{{ page.title }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+    <!-- Before we start writing what's inside the skeleton, we want to style everything before hand. -->
+
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
+
+    <link href="css/header.css" rel="stylesheet" type="text/css">
+    <link href="css/footer.css" rel="stylesheet" type="text/css">
+
+    <!-- ################################################### HTML #########################################################-->
+
+    </head>
+
+<!--Everything you see on the webpage goes inside the <body>. We will add different sections: header, navigation bar etc -->
+    <body>
+
+    {% include header.html %}
+
+        {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+ 
+  
+    </body>
+</html>

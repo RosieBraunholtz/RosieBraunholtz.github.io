@@ -1,9 +1,12 @@
 /*-- style the header  */
 .header { 
     padding: 80px;
+    padding-bottom: 10px;
     text-align: center;
+    font-family: Arial;
     /* background: url('Galaxy1.jpg'); */
     /* background-size: 100%; */
+    font-weight: bold;
     color: white;
   }
     
@@ -18,7 +21,8 @@
   /* Style the top navigation bar */
   .navbar {
     overflow: hidden; /* Hide overflow */
-    background-color:rgba(49, 14, 99, 0.752); /* Dark background color */
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+    /* background-color:rgba(234, 231, 239, 0.752); Dark background color */
   }
   
   
@@ -27,9 +31,10 @@
     float: left; /* Make sure that the links stay side-by-side */
     font-size: 20px;
     display: block; /* Change the display to block, for responsive reasons (see below) */
-    color: white; /* White text color */
+    color: #404040; /* White text color */
     text-align: center; /* Center the text */
-    padding: 14px 20px; /* Add some padding */
+    padding: 14px 20px; /*Add some padding */
+    max-width: 1400px;
     text-decoration: none; /* Remove underline */
   }
     

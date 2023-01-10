@@ -1,7 +1,7 @@
 /* style uses CSS which is you use different commenting for */
 body {
-  font-family: Helvetica, sans-serif ; 
-  font-size:larger;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-size: 16px;
   background-color: rgb(38, 37, 43);
   background-image: url('../Images/Galaxy1.jpg');
   background-size: 100%;
@@ -9,14 +9,20 @@ body {
   background-attachment: fixed;
 }
 
+/* body {
+  min-width: 360px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 16px;
+} */
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  /* width: 50%; */
 }
 
-/* Intro text */
+/* Intro text
 .intro {   
   margin:auto;
   max-width: 1200px;
@@ -24,15 +30,20 @@ body {
   background-color: rgb(255, 255, 255, 0.822);
   padding: 30px;
   color: black;
-}
+} */
 
-.intro img{
+.image{
   float: left;
-  padding:10px 80px 10px 10px;
+  padding-right: 30px;
+  height: 350px;
 }
 
+.proj_img {
+  float: left;
+  padding:10px;
+}
 
-/* Main bit */
+/* Main bit
 .main {   
   margin:60px auto;
   max-width: 1200px;
@@ -40,6 +51,107 @@ body {
   background-color: rgba(255, 255, 255, 0.822);
   padding: 30px;
   color: black;
+} */
+
+/* Copied fro GitHub */
+
+.section {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 60px 0;
+  min-height: 40vh;
+
+  display: -webkit-box;
+
+  display: -ms-flexbox;
+
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.section-gallery {
+  max-width: 900px;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  margin: 20px auto;
+
+  display: -webkit-box;
+
+  display: -ms-flexbox;
+
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.section-heading {
+  text-align: center;
+  margin-bottom: 30px;
+  font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  font-size: 2.5rem;
+  color: #222;
+  font-weight: bold;
+}
+
+.section-wrapper {
+  background-color: rgb(208, 206, 217);
+  color: #222;
+  max-width: 1400px;
+  margin:auto;
+}
+
+.wrapper {
+	max-width: 400px;
+	margin: 50px auto;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+/* .section-wrapper:nth-child(odd) .section-heading {
+  color: rgb(203, 34, 34);
+}
+
+.section-wrapper:nth-child(odd) .skills-subsection {
+  color: rgb(201, 12, 12);
+}
+
+.section-wrapper:nth-child(odd) .paragraph-text {
+  color: rgb(211, 31, 31);
+} */
+
+.paragraph-text {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20.8px;
+  font-size: 1.3rem;
+  margin: 30 auto;
+  color: #404040;
+}
+
+.paragraph-text-normal {
+  font-family: 'PT Sans', sans-serif;
+  color: #404040;
+}
+
+.justify-text {
+  text-align: justify;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 /*  ###### Gallery ######*/

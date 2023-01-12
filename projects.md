@@ -13,7 +13,8 @@ permalink: projects.html
       <div class="section-heading">Projects</div>
       <h3 class="paragraph-text justify-text"> Personal Website</h3>
       <p class="paragraph-text justify-text"> I created this website using HTML, CSS and Jekyll without the use of a theme or template. I now have working knowledge of
-      these languages and how to build a simple website from scratch. </p>
+      these languages and how to build a simple website from scratch. If you would like to see the source code you can find it on my Github Profile which is linked
+      on the Contact page. </p>
     </div>
   </section>
 </div>

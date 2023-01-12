@@ -18,7 +18,7 @@ permalink: aboutme.html
         <div class="section-heading">About</div>
         <img src="Images/crete1.jpg" alt="Standrews" class="image">
         <p class="paragraph-text justify-text">
-          My name's Rosie and I built this to help me learn HTML, plus to display some of my achievements and work experience. I am an astronomer, graduated from the University of St Andrews in 2021. Recently I completed an internship in Data Science, and have experience with Python, MATLAB, Java, Linux, Windows and more! Currently I spend my time learning about astronomy and writing a blog. Please explore my page, I'm hoping to add more on to the web site soon. If you want to know what I look like here is an idyllic photo of me in Crete in 2021... however this is not a good representation of what I look like in my daily life.
+          My name's Rosie and I built this website to help me learn HTML, plus to display some of my achievements and work experience. I am an astronomer, graduated from the University of St Andrews in 2021. Recently I completed an internship in Data Science, and have experience with Python, MATLAB, Java, Linux, Windows and more! Currently I spend my time learning about astronomy and writing a blog. Please explore my page, I'm hoping to add more on to the web site soon. If you want to know what I look like here is an idyllic photo of me in Crete in 2021... however this is not a good representation of what I look like in my daily life.
           </p>
 
   </div>

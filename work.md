@@ -18,17 +18,18 @@ permalink: work.html
     charity whose aim is to teach the public about space and astronomy. Through my time working here I have gained invaluable knowledge on how to communicate and 
     present to an audience about difficult astronomy topics. Whether that be through engaging talks, conversation, blog posts, articles, podcasts, 
     video long-form content,  or video short-form content. I also now have an exellent knowledge of the night time sky and practical stargazing including 
-    constellations hunting, how to use manual and robotic telescopes, and a basic knowledge of astrophotography through capturing images of deep-sky objects. 
-     <a href="https://kielderobservatory.org/news/latest-news/472-aaa-the-twilight-zone">Article on twilight</a>. 
-    <a href="https://www.youtube.com/watch?v=pJz6sbes8b0&t=48s">Video on Cecilia Payne</a>.
+    constellations hunting, how to use manual and robotic telescopes, and a basic knowledge of astrophotography through capturing images of deep-sky objects. <br>
+    <a href="https://kielderobservatory.org/news/latest-news/472-aaa-the-twilight-zone" style="color:white"> - Article on twilight. </a> <br>
+    <a href="https://www.youtube.com/watch?v=pJz6sbes8b0&t=48s"  style="color:white"> - Youtube video on Cecilia Payne</a>.
   </p>
-  <br>
+ </section>
 
 
-    <h3 class="paragraph-text justify-text"> Article Writer for SpaceCareers, January 2023 - December 2024 </h3>
+
+  <h3 class="paragraph-text justify-text"> Article Writer for SpaceCareers, January 2023 - December 2024 </h3>
   <p class="paragraph-text justify-text"> 
-   For 2 years I volunteered with SpaceCareers as a writer, writing articles once a month. I interviewed various people in the space industry and also wrote outlines of specific jobs and the various skills needed. The aim being to guide more people to get a job in the space sector. During this time I improved on my writing techniques and research skills. I also learned how to proof-read and edit other peoples work. 
-    <a href="https://spacecareers.uk/articles/5b63b73d-b202-4473-962e-e6abad5fa9f5">SpaceCareers Website</a> 
+   For 2 years I volunteered with SpaceCareers as a writer, writing articles once a month. I interviewed various people in the space industry and also wrote outlines of specific jobs and the various skills needed. The aim being to guide more people to get a job in the space sector. During this time I improved on my writing techniques and research skills. I also learned how to proof-read and edit other peoples work. <br>
+    <a href="https://spacecareers.uk/articles/5b63b73d-b202-4473-962e-e6abad5fa9f5" style="color:white"> - SpaceCareers Website</a> 
   </p>
   <br>
 

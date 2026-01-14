@@ -11,7 +11,7 @@ permalink: projects.html
   <section class="section project" id="project">
     <div id="project-text">
       <div class="section-heading">Projects</div>
-      <h3 class="paragraph-text justify-text"> Personal Website</h3>
+      <h3 class="heading-text justify-text"> Personal Website</h3>
       <p class="paragraph-text justify-text"> I created this website using HTML, CSS and Jekyll without the use of a theme or template. I now have working knowledge of
       these languages and how to build a simple website from scratch. If you would like to see the source code you can find it on my Github Profile which is linked
       on the Contact page. </p>
@@ -23,7 +23,7 @@ permalink: projects.html
 <div class="section-wrapper">
   <section class="section project" id="project">
     <div id="project-text">
-      <h3 class="paragraph-text justify-text"> MSc Dissertation - Dark Halo Evolution in the Cosmic Web</h3>
+      <h3 class="heading-text justify-text"> MSc Dissertation - Dark Halo Evolution in the Cosmic Web</h3>
       <p  class="paragraph-text justify-text">  I used the Illustris-TNG simulation to study the effects of environment and location in the cosmic web on mass accretion history. I
       found that distances in the web did have some affect on star formation and mass accretion histories, and comparing them to other research I found similar results. I showcased my research Poster Symposium Targeting Early-career Researchers
       (PoSTER), which I have put below. </p>
@@ -40,7 +40,7 @@ permalink: projects.html
 <div class="section-wrapper">
   <section class="section project" id="project">
     <div id="project-text">
-      <h3 class="paragraph-text justify-text"> MSc Mini Project - Dark Matter Halos and Rotation curves</h3>
+      <h3 class="heading-text justify-text"> MSc Mini Project - Dark Matter Halos and Rotation curves</h3>
       <p class="paragraph-text justify-text"> I used velocity fields from the MANGA survey to extract rotation curves and fit dark halo profiles to 12 disk galaxies.</p>
       <div class="proj_img">
         <img src="../Images/project/manga_proj.jpg"  width = "49%">

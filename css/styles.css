@@ -3,7 +3,7 @@ body {
   /* font-family: 'PT Sans', Arial, Helvetica, sans-serif; */
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
-  background-color: rgb(90, 26, 26);
+  background-color: #434141;
   /* background-image: url('../Images/Galaxy1.jpg'); */
   background-size: 100%;
   background-repeat: no-repeat;
@@ -100,14 +100,14 @@ body {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 50px;
   font-size: 2.5rem;
-  color: whitesmoke;
+  color: #d67680;
   font-weight: bold;
 }
 
 .section-wrapper {
-  /* background-color: rgb(90, 26, 26); */
+  background-color: #f4f5f0f5;
   /* color: #c2bdbd; */
-  max-width: 900px; /*1400px*/
+  max-width: 1000px; /*1400px*/
   margin:auto;
 }
 
@@ -136,27 +136,37 @@ body {
 
 .paragraph-text {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 25px;
-  font-size: 1.3rem;
+  font-size: 20px;
+  /* font-size: 1.3rem; */
   margin: 30 auto;
-  color: whitesmoke;
+  color: #434141;
+}
+
+.abstract-text{
+  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: medium;
+  /* font-size: 1.3rem; */
+  margin: 30 auto;
+  color: #927570;
+  font-weight: bold;
+
 }
 
 .heading-text {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  font-size: 55px;
-  font-size: 1.3rem;
+  font-size: 23px;
+  /* font-size: 1.3rem; */
   margin: 30 auto;
-  color: whitesmoke;
+  color:  #434141;
 }
 
 .paragraph-text-normal {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: whitesmoke;
+  color: #434141;
 }
 
 .justify-text {
-  text-align: justify;
+  text-align: left;
 }
 
 .vertical-center {

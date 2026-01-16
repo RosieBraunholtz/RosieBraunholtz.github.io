@@ -7,13 +7,13 @@
     /* background: url('Galaxy1.jpg'); */
     /* background-size: 100%; */
     font-weight: bold;
-    color: whitesmoke;
+    color: #f4f5f0;
     /* background-color: rgb(105, 3, 0); */
   }
 
   .header-wrapper {
-    background-color: rgb(184, 68, 68);
-    color: whitesmoke;
+    background-color: #d67680;
+    /* color: rgb(145, 183, 199); */
     /* max-width: 1100px; */
     margin:auto;
   }
@@ -30,7 +30,7 @@
   .navbar {
     overflow: hidden; /*Hide overflow*/
     font-family: 'PT Sans', Arial, Helvetica, sans-serif;
-    max-width: 1100px;
+    max-width: 1000px;
     text-align: center;
     margin:auto;
     /* background-color:rgba(234, 231, 239, 0.752); Dark background color */
@@ -42,7 +42,7 @@
     float: left; /* Make sure that the links stay side-by-side */
     font-size: 20px;
     display: block; /* Change the display to block, for responsive reasons (see below) */
-    color: whitesmoke; /* White text color */
+    color: #f4f5f0; /* White text color */
     text-align: center; /* Center the text */
     padding: 14px 20px; /*Add some padding */
     max-width: 1400px;

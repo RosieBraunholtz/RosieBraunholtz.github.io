@@ -7,7 +7,7 @@ permalink: aboutme.html
 
 <!--######### About me section ###########-->
 
-<div class="section-wrapper">
+<!-- <div class="section-wrapper">
     <section class="section about" id="about">
       <div id="about-text">
         <div class="section-heading">About Me</div>
@@ -20,23 +20,26 @@ permalink: aboutme.html
 
   </div>
     </section>
-<!-- </div> -->
+</div> -->
 
 
 
 <!-- ##################### Photo Gallery ################## -->
 <!-- <div class="section-wrapper"> -->
-  <div class="section-gallery" id="photo">
-      <div id="photo-text">
+
+
+
+<div class="section-wrapper">
+    <section class="section about" id="about">
+      <div id="about-text">
+        <div class="section-heading">About Me</div>
         <p class="paragraph-text justify-text">
-        Pictures speak a thousand words, and I can't be bothered to write any more code. So here are some images from my life, they mostly contain food, family, friends, general outdoorsy-ness, and maybe some baking (bake-off 2026 here I come!)  </p>
+        Hi I'm Rosie. I'm an astronomer by trade having graduated with a masters degree in astrophysics a few years ago. I love all things space but particularly cosmology, dark matter, black holes. I also love the practical side of astronomy, noting where the constellations and planets are throughout the year and am an (ameteur) astrophotographer. You will often find me looking up at the night sky if it's a clear night. When I'm not looking up at space I'm usually watching movies, eating, at the local pub quiz, singing musical theatre, dancing salsa and going on walks. Pictures speak a thousand words, and I can't be bothered to write any more code. So here are some images from my life, they mostly contain food, family, friends, general outdoorsy-ness, and maybe some baking (bake-off 2026 here I come!)  </p>
       </div>
-    </div>
+    </section>
 
-
-<!--######################################## Trial Photo gallery ############################################################ -->
-
-  <!-- Elfsight Photo Gallery | Untitled Photo Gallery -->
+   
+   <!-- Elfsight Photo Gallery | Untitled Photo Gallery -->
   <script src="https://elfsightcdn.com/platform.js" async></script>
-  <div class="elfsight-app-7a93cb26-1999-4f4c-b670-43f0107f7366" data-elfsight-app-lazy></div>
-  </div>
+    <div class="elfsight-app-7a93cb26-1999-4f4c-b670-43f0107f7366" data-elfsight-app-lazy></div>
+</div>

@@ -5,7 +5,7 @@ permalink: projects.html
 ---
 
 <!-- ####### Projects ########-->
-<!-- <link href="../css/projects.css" rel="stylesheet" type="text/css"> -->
+<link href="../css/styles.css" rel="stylesheet" type="text/css">
 
 <div class="section-wrapper">
   <section class="section project" id="project">

@@ -3,10 +3,11 @@ body {
   /* font-family: 'PT Sans', Arial, Helvetica, sans-serif; */
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 16px;
-  background-color: #434141;
-  /* background-image: url('../Images/Galaxy1.jpg'); */
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-color: rgb(67,65,65);
+  background-image: url('../Images/dark-wood.png');
+  background-repeat: repeat;
+  /* background-size: 100%; */
+  /* background-repeat: no-repeat; */
   background-attachment: fixed;
 }
 
@@ -100,12 +101,12 @@ body {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 50px;
   font-size: 2.5rem;
-  color: #d67680;
+  color: rgb(214,118,128);
   font-weight: bold;
 }
 
 .section-wrapper {
-  background-color: #f4f5f0f5;
+  background-color: rgb(244,245,240);
   /* color: #c2bdbd; */
   max-width: 1000px; /*1400px*/
   margin:auto;
@@ -139,7 +140,7 @@ body {
   font-size: 20px;
   /* font-size: 1.3rem; */
   margin: 30 auto;
-  color: #434141;
+  color: rgb(67,65,65);
 }
 
 .abstract-text{
@@ -147,7 +148,7 @@ body {
   font-size: medium;
   /* font-size: 1.3rem; */
   margin: 30 auto;
-  color: #927570;
+  color: rgb(146,117,112);
   font-weight: bold;
 
 }
@@ -157,12 +158,12 @@ body {
   font-size: 23px;
   /* font-size: 1.3rem; */
   margin: 30 auto;
-  color:  #434141;
+  color:  rgb(67,65,65);
 }
 
 .paragraph-text-normal {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: #434141;
+  color: rgb(67,65,65);
 }
 
 .justify-text {
